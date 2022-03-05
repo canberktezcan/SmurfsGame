@@ -1,4 +1,4 @@
-package labirent;
+package maze;
 
 
 public class Karakter extends Lokasyon {

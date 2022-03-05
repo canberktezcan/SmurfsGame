@@ -1,4 +1,4 @@
-package labirent;
+package maze;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -253,8 +253,8 @@ public class Main {
         }
         JFrame jf = new JFrame();
         GirisEkrani girisekrani = new GirisEkrani();
-        ImageIcon gozlukluresim = new ImageIcon("C:\\Projects\\lab12\\labırent\\src\\Image\\gözlüklüsirin.jpg");
-        ImageIcon tembelresim = new ImageIcon("C:\\Projects\\lab12\\labırent\\src\\Image\\tembelsirin.jpg");
+        ImageIcon gozlukluresim = new ImageIcon("C:\\Projects\\Smurfs\\maze\\src\\Image\\gözlüklüsirin.jpg");
+        ImageIcon tembelresim = new ImageIcon("C:\\Projects\\Smurfs\\maze\\src\\Image\\tembelsirin.jpg");
 
         JButton gozluklusirin = new JButton();
         JButton tembelsirin = new JButton();

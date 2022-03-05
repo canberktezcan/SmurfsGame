@@ -1,5 +1,5 @@
 
-package labirent;
+package maze;
 
 import java.awt.Color;
 import java.awt.Graphics;

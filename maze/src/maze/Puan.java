@@ -1,5 +1,5 @@
 
-package labirent;
+package maze;
 
 public class Puan extends Oyuncu {
     private Oyuncu oyuncu;

@@ -1,5 +1,5 @@
 
-package labirent;
+package maze;
 
 public class KomsuDugum {
  

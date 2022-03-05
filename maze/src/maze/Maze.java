@@ -1,4 +1,4 @@
-package labirent;
+package maze;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -29,15 +29,15 @@ public class Maze extends JFrame {
     GirisEkrani girisekrani = new GirisEkrani();
 
     public BufferedImage gargamel;
-    public String gargamelfoto = "C:\\Projects\\lab12\\labırent\\src\\Image\\Gargamel.jpeg";
+    public String gargamelfoto = "C:\\Projects\\Smurfs\\maze\\src\\Image\\Gargamel.jpeg";
     public BufferedImage azman;
-    public String azmanfoto = "C:\\Projects\\lab12\\labırent\\src\\Image\\Azman.jpeg";
+    public String azmanfoto = "C:\\Projects\\Smurfs\\maze\\src\\Image\\Azman.jpeg";
     public BufferedImage gozluklusırın;
-    public String gozluklusırınfoto = "C:\\Projects\\lab12\\labırent\\src\\Image\\gözlüklüsirin.jpg";
+    public String gozluklusırınfoto = "C:\\Projects\\Smurfs\\maze\\src\\Image\\gözlüklüsirin.jpg";
     public BufferedImage tembelsırın;
-    public String tembelsirinfoto = "C:\\Projects\\lab12\\labırent\\src\\Image\\tembelsirin.jpg";
+    public String tembelsirinfoto = "C:\\Projects\\Smurfs\\maze\\src\\Image\\tembelsirin.jpg";
     public BufferedImage sirine;
-    public String sirinefoto = "C:\\Projects\\lab12\\labırent\\src\\Image\\Sirine.png";
+    public String sirinefoto = "C:\\Projects\\Smurfs\\maze\\src\\Image\\Sirine.png";
 
     static List<Dugum> enkisa;
     static List<Dugum> enkisa2;
